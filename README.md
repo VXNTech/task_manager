@@ -1,6 +1,30 @@
 # Task manager Web application
 
 A task manager app inspired by JIRA allows you to manage your daily tasks.
+
+This project is a simple yet powerful task manager web application inspired by JIRA, built to help you stay on top of your daily tasks. It provides an intuitive and responsive interface that makes organizing and tracking work much easier.
+
+The application offers three different ways to manage your tasks:
+
+Key Features
+
+List View
+-Quickly see all your tasks in a clean list. You can drag tasks to change their state, mark them complete with a checkbox, and expand any task with the dropdown to view its details.
+
+Calendar View
+-Visualize your tasks on a calendar. Days with one or more tasks are highlighted so you never miss anything. Completed tasks are marked with a green border, while pending ones appear in red. Each task can be expanded to show more information.
+
+Board View
+-Manage tasks in a Kanban-style board. Easily drag tasks between different states and expand them for more details when needed.
+
+Notifications
+-Get notified instantly for every action you take, keeping you updated and aware of all changes.
+
+Responsive Design
+-The app is fully responsive, so whether you’re on desktop, tablet, or mobile, you’ll always get a smooth experience.
+
+This project combines usability with flexibility, giving you multiple ways to organize tasks and stay productive—whether you prefer lists, calendars, or boards.
+
 # Setting up development environment
   1. Prerequisites
       - you need to have [node.js](https://nodejs.org/en/) installed in your machine
